@@ -1,0 +1,81 @@
+[
+    {
+        "time": "2024-06-06_08-03-05",
+        "location": "1234 Example St, City, Country",
+        "photos": [
+            "static/accidents/accident_{frame_count}.jpg"
+        ]
+    },
+    {
+        "time": "2024-06-06_08-11-46",
+        "location": "1234 Example St, City, Country",
+        "photos": [
+            "static/accidents\\accident_2024-06-06_08-11-46_0.jpg",
+            "static/accidents\\accident_2024-06-06_08-11-46_1.jpg",
+            "static/accidents\\accident_2024-06-06_08-11-46_2.jpg"
+        ]
+    },
+    {
+        "time": "2024-06-06_08-11-49",
+        "location": "1234 Example St, City, Country",
+        "photos": [
+            "static/accidents\\accident_2024-06-06_08-11-49_0.jpg",
+            "static/accidents\\accident_2024-06-06_08-11-49_1.jpg",
+            "static/accidents\\accident_2024-06-06_08-11-49_2.jpg"
+        ]
+    },
+    {
+        "time": "2024-06-06_08-11-54",
+        "location": "1234 Example St, City, Country",
+        "photos": [
+            "static/accidents\\accident_2024-06-06_08-11-54_0.jpg",
+            "static/accidents\\accident_2024-06-06_08-11-54_1.jpg",
+            "static/accidents\\accident_2024-06-06_08-11-54_2.jpg"
+        ]
+    },
+    {
+        "time": "2024-06-06_08-11-58",
+        "location": "1234 Example St, City, Country",
+        "photos": [
+            "static/accidents\\accident_2024-06-06_08-11-58_0.jpg",
+            "static/accidents\\accident_2024-06-06_08-11-58_1.jpg",
+            "static/accidents\\accident_2024-06-06_08-11-58_2.jpg"
+        ]
+    },
+    {
+        "time": "2024-06-06_08-12-01",
+        "location": "1234 Example St, City, Country",
+        "photos": [
+            "static/accidents\\accident_2024-06-06_08-12-01_0.jpg",
+            "static/accidents\\accident_2024-06-06_08-12-01_1.jpg",
+            "static/accidents\\accident_2024-06-06_08-12-01_2.jpg"
+        ]
+    },
+    {
+        "time": "2024-06-06_08-12-04",
+        "location": "1234 Example St, City, Country",
+        "photos": [
+            "static/accidents\\accident_2024-06-06_08-12-04_0.jpg",
+            "static/accidents\\accident_2024-06-06_08-12-04_1.jpg",
+            "static/accidents\\accident_2024-06-06_08-12-04_2.jpg"
+        ]
+    },
+    {
+        "time": "2024-06-06_08-12-08",
+        "location": "1234 Example St, City, Country",
+        "photos": [
+            "static/accidents\\accident_2024-06-06_08-12-08_0.jpg",
+            "static/accidents\\accident_2024-06-06_08-12-08_1.jpg",
+            "static/accidents\\accident_2024-06-06_08-12-08_2.jpg"
+        ]
+    },
+    {
+        "time": "2024-06-06_08-12-11",
+        "location": "1234 Example St, City, Country",
+        "photos": [
+            "static/accidents\\accident_2024-06-06_08-12-11_0.jpg",
+            "static/accidents\\accident_2024-06-06_08-12-11_1.jpg",
+            "static/accidents\\accident_2024-06-06_08-12-11_2.jpg"
+        ]
+    }
+]
